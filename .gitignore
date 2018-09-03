@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+# .nuxt
+.nuxt/dist/*.js
+
+# Nuxt generate
+# dist
+
+
+config.json
+webon.config.json
+webon.log.json
